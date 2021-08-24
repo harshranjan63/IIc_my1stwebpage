@@ -20,8 +20,7 @@ function change(c)
         document.getElementById("a3").style.backgroundColor = "rgb(128, 0, 128)";
         document.getElementById("a4").style.backgroundColor = "rgb(128, 0, 128)";
         document.getElementById("a5").style.backgroundColor = "rgb(128, 0, 128)";
-        document.getElementById("a6").style.backgroundcolor = "rgb(128, 0, 128)";
-        document.getElementById("a1").style.Color = "#ffffff";
+        document.getElementById("a6").style.backgroundColor = "rgb(128,0,128)";
         document.getElementById("abtme").style.backgroundColor = "rgb(0,128,0)";
         document.getElementById("Skills").style.backgroundColor = "#ffffff";
         document.getElementById("Hobbies").style.backgroundColor = "#ffffff";
@@ -33,7 +32,6 @@ function change(c)
     else if(c==2)
     {
         document.getElementById("Skills").style.Color = "#ffffff";
-        document.getElementById("a2").style.Color = "#ffffff";
         document.getElementById("a2").style.backgroundColor = "rgb(0,128,0)";
         document.getElementById("a1").style.backgroundColor = "rgb(128, 0, 128)";
         document.getElementById("a3").style.backgroundColor = "rgb(128, 0, 128)";
@@ -50,7 +48,6 @@ function change(c)
     else if(c==3)
     {
         document.getElementById("Hobbies").style.Color = "#ffffff";
-        document.getElementById("a3").style.Color = "#ffffff";
         document.getElementById("a3").style.backgroundColor = "rgb(0,128,0)";
         document.getElementById("a2").style.backgroundColor = "rgb(128, 0, 128)";
         document.getElementById("a1").style.backgroundColor = "rgb(128, 0, 128)";
@@ -67,7 +64,6 @@ function change(c)
     else if(c==4)
     {
         document.getElementById("Qualification").style.Color = "#ffffff";
-        document.getElementById("a4").style.Color = "#ffffff";
         document.getElementById("a4").style.backgroundColor = "rgb(0,128,0)";
         document.getElementById("a2").style.backgroundColor = "rgb(128, 0, 128)";
         document.getElementById("a3").style.backgroundColor = "rgb(128, 0, 128)";
@@ -84,8 +80,6 @@ function change(c)
     else if(c==5)
     {
         document.getElementById("Loacation").style.Color = "#ffffff";
-        document.getElementById("a5").style.Color = "#ffffff";
-        document.getElementById("a1").style.Color = "#ffffff";
         document.getElementById("a5").style.backgroundColor = "rgb(0,128,0)";
         document.getElementById("a2").style.backgroundColor = "rgb(128, 0, 128)";
         document.getElementById("a3").style.backgroundColor = "rgb(128, 0, 128)";
