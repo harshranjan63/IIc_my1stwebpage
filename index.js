@@ -20,7 +20,7 @@ function change(c)
         document.getElementById("a3").style.backgroundColor = "rgb(128, 0, 128)";
         document.getElementById("a4").style.backgroundColor = "rgb(128, 0, 128)";
         document.getElementById("a5").style.backgroundColor = "rgb(128, 0, 128)";
-        document.getElementById("a6").style.color = "rgb(128, 0, 128)";
+        document.getElementById("a6").style.backgroundcolor = "rgb(128, 0, 128)";
         document.getElementById("a1").style.Color = "#ffffff";
         document.getElementById("abtme").style.backgroundColor = "rgb(0,128,0)";
         document.getElementById("Skills").style.backgroundColor = "#ffffff";
